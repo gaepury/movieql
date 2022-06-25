@@ -30,7 +30,7 @@
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
     "graphql-yoga": "^1.18.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0",
